@@ -1,0 +1,61 @@
+baseURL = 'https://heyiamsra.com/'
+languageCode = 'en-us'
+title = 'Sonali Rajput'
+theme = 'archie'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  author = "Sonali Rajput"
+  description = "DevOps Engineer & Cloud Computing Student"
+  subtitle = "Building scalable cloud solutions and exploring AI"
+  email = "sonali.rajput.uk@gmail.com"
+  github = "sonali-rajput"
+  twitter = "heyiamsra"
+  linkedin = "sonali-rajput"
+  showFullContent = false
+  showReadingTime = true
+  showWordCount = false
+  showPagination = true
+  showPostNavLinks = false
+  showBreadcrumbs = false
+  showCodeCopyButtons = true
+  rtl = false
+  showToc = false
+  TocOpen = false
+  customCSS = ["css/custom.css"]
+
+[menu]
+  [[menu.main]]
+    identifier = "experience"
+    name = "Experience"
+    url = "/experience/"
+    weight = 10
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 20
+  [[menu.main]]
+    identifier = "certifications"
+    name = "Certifications"
+    url = "/certifications/"
+    weight = 30
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+    weight = 40
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 50
+  [[menu.main]]
+    identifier = "x"
+    name = "X"
+    url = "/x/"
+    weight = 60

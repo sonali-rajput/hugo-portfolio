@@ -1,0 +1,60 @@
+/* Custom header styling to place navigation under the title */
+header {
+  display: block !important;
+  flex-direction: column !important;
+  align-items: flex-start !important;
+  justify-content: flex-start !important;
+}
+
+header .main {
+  font-size: 21.6px;
+  margin-bottom: 0.5em;
+  font-weight: bold;
+}
+
+header .main a {
+  border-bottom: none;
+  color: inherit;
+  text-decoration: none;
+}
+
+header .main a:hover {
+  background-color: transparent;
+  color: inherit;
+}
+
+header nav.nav-under-title {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  margin-top: 0.5em;
+  line-height: 21.6px;
+}
+
+header nav.nav-under-title a {
+  border-bottom: 3px solid var(--maincolor);
+  color: inherit;
+  text-decoration: none;
+  font-size: 14.4px;
+}
+
+header nav.nav-under-title a:hover {
+  background-color: var(--hovercolor);
+  color: #fff;
+}
+
+/* Main body line height */
+.content {
+  line-height: 23.04px;
+}
+
+/* Responsive design for mobile */
+@media screen and (max-width: 768px) {
+  header nav.nav-under-title {
+    gap: 0.5em;
+  }
+  
+  header nav.nav-under-title a {
+    font-size: 13px;
+  }
+} 
