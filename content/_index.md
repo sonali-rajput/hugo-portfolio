@@ -20,4 +20,4 @@ i studied physics, math, computer science, and often, philosophy in college. i'v
 
 i am currently living on my friend's farm, studying data-driven science/engineering on my own, building physics-informed NNs and SOTA LLMs from scratch.
 
-i like to tweet: @eigenron
+i like to tweet: @heyiamsra
