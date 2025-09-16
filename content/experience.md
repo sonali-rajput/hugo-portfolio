@@ -6,19 +6,27 @@ title = 'Experience'
 
 # Professional Experience
 
-## DevOps Engineer Remote Intern
-**Sarva Suvidhaen** | Patna, India | 09/2023 – 11/2023
+DevOps Engineer
+**Sarva Suvidhaen** | Patna, India | 09/2023 – 09/2024
 
-- Provisioned and managed virtual machines on GCP and AWS for application hosting and backend services
-- Containerized backend applications with Docker, integrated Datadog monitoring, and automated deployments, reducing manual tasks by 40%
-- Built CI/CD pipelines with GitHub Actions and Tekton Pipelines, reducing deployment time and improving release consistency
+ - Designed and managed AWS & GCP infrastructure (compute, storage, networking) with high availability and
+ security compliance.
+ - Led AWS-to-GCP migration, reducing annual costs by 10% and streamlining deployments.
+ - Containerized applications with Docker and built CI/CD pipelines via GitHub Actions, cutting deployment time
+ by 50%+.
+ - Integrated Datadog for monitoring and alerts, reducing manual ops workload by 40%.
 
-## DevOps Engineer Remote Intern
-**Makerble** | London, UK | 05/2023 – 09/2023
+DevOps Engineer 
+**Makerble** | London, UK | 05/2022 – 09/2023
 
-- Optimized cloud infrastructure costs by 20% through resource rightsizing and scheduled scaling on AWS
-- Created and maintained CI/CD pipelines using Tekton Pipelines and ArgoCD for multi-environment deployment of software services
-- Integrated TestSigma, Grafana, and New Relic, improving system observability and customer centricity
+ - Optimized AWS resource utilization through rightsizing, automated scaling, and cost monitoring, reducing
+ monthly cloud spend by 20%.
+ - Built and maintained CI/CD pipelines using Tekton and ArgoCD for multi-environment deployments, ensuring
+ zero-downtime releases.
+ - Integrated TestSigma for automated testing and Grafana/New Relic for observability, improving incident detec
+tion and reducing MTTR (Mean Time to Recovery) by 30%.
+ - Collaborated with developers to implement Infrastructure as Code (IaC) practices using Terraform, enabling
+ repeatable and version-controlled infrastructure deployments.
 
 ## Education
 

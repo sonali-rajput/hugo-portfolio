@@ -54,8 +54,3 @@ theme = 'archie'
     name = "Contact"
     url = "/contact/"
     weight = 50
-  [[menu.main]]
-    identifier = "x"
-    name = "X"
-    url = "/x/"
-    weight = 60
