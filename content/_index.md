@@ -12,12 +12,12 @@ title = 'Sonali Rajput'
 
 </div> -->
 
-hi,
+Hey, 
 
-i am a strange loop dreaming in tensors. i chase the symmetries of nature with physics-informed nets, trace quantum whispers in Hilbert’s shadow, sketch thoughtforms where code meets canvas, and wonder if art, too, is just the universe becoming self-aware.
+I'm a bit of a strange loop myself, a product of physics, chemistry, and math, who found a calling in Computer Science and now orchestrates the digital cosmos. My journey started with a B.Tech in Computer Science and Engineering , and now I'm pursuing an MSc in Cloud Computing with a placement year. 
 
-i studied physics, math, computer science, and often, philosophy in college. i've researched phase qubits for my senior (theoretical) research, and wanna research the intersection of NLP, physics, and the self, to unravel questions like what is intelligence, in an attempt to make LLMs funny.
+I live at the intersection of infrastructure and innovation, where I've spent my time building resilient CI/CD pipelines and taming the complexities of AWS and GCP. But my curiosity doesn't stop there. I love exploring the frontiers of technology, especially playing with new tech, AI, and large language models. 
 
-i am currently living on my friend's farm, studying data-driven science/engineering on my own, building physics-informed NNs and SOTA LLMs from scratch.
+In fact, I've already built a multi-LLM network operations center that reduces manual alert processing from hours to mere seconds. I'm a DevOps maestro who's also an AI tinkerer, always eager to explore what's next and build thoughtforms where code meets canvas.
 
-i like to tweet: @heyiamsra
+I like to tweet: @heyiamsra
