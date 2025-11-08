@@ -45,9 +45,9 @@ theme = 'archie'
     url = "/certifications/"
     weight = 30
   [[menu.main]]
-    identifier = "blog"
+    identifier = "blogs"
     name = "Blog"
-    url = "/posts/"
+    url = "/blogs/"
     weight = 40
   [[menu.main]]
     identifier = "contact"
