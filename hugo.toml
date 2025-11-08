@@ -10,8 +10,8 @@ theme = 'archie'
 
 [params]
   author = "Sonali Rajput"
-  description = "DevOps Engineer & Cloud Computing Student"
-  subtitle = "Building scalable cloud solutions and exploring AI"
+  description = "Software Engineer & Cloud Computing Student"
+  subtitle = "Software Engineer I build and automate resilient, scalable cloud-native applications."
   email = "sonali.rajput.uk@gmail.com"
   github = "sonali-rajput"
   twitter = "heyiamsra"
