@@ -12,12 +12,10 @@ title = 'Sonali Rajput'
 
 </div> -->
 
-Hey, 
+I'm a software engineer passionate about crafting scalable, cloud-native systems. My favorite work lies at the intersection of robust backend development and end-to-end DevOps automation, creating platforms that are not just functional but are meticulously engineered for high performance and reliability.
 
-I'm a bit of a strange loop myself, a product of physics, chemistry, and math, who found a calling in Computer Science and now orchestrates the digital cosmos. My journey started with a B.Tech in Computer Science and Engineering , and now I'm pursuing an MSc in Cloud Computing with a placement year. 
+Currently, I'm a Software Developer Backend at Trovr, where I focus on engineering resilient Go (Golang) microservices using SOLID/DDD principles. In this hybrid role, I also led the build-out of our complete DevOps infrastructure from the ground up. This involved designing automated CI/CD pipelines and deploying containerized services to a scalable GCP and Kubernetes environment, all while embedding security best practices from a DevSecOps perspective.
 
-I live at the intersection of infrastructure and innovation, where I've spent my time building resilient CI/CD pipelines and taming the complexities of AWS and GCP. But my curiosity doesn't stop there. I love exploring the frontiers of technology, especially playing with new tech, AI, and large language models. 
+In the past, I've had the opportunity to apply my DevOps expertise across a variety of settings—from an enterprise software company focused on data management for social enterprises to an IIT-incubated startup developing automation systems for complex organizations. Additionally, I've engineered personal projects like an automated network incident response system, which uses multiple LLMs and vector-based correlation for intelligent root cause analysis.
 
-In fact, I've already built a multi-LLM network operations center that reduces manual alert processing from hours to mere seconds. I'm a DevOps maestro who's also an AI tinkerer, always eager to explore what's next and build thoughtforms where code meets canvas.
-
-I like to tweet: @heyiamsra
+In my spare time, I enjoy reading about technology, practicing yoga, playing video games, or spending time with my family and friends.
