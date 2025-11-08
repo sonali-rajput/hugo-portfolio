@@ -50,6 +50,7 @@ header nav.nav-under-title a:hover {
 /* Main body line height */
 .content {
   line-height: 23.04px;
+  text-align: justify;
 }
 
 /* Experience page */

@@ -1,59 +1,37 @@
 +++
 date = '2025-07-05T16:31:32+05:30'
 draft = false
-title = 'Security Log Dashboard and Analysis Platform'
+title = 'NOC Multi-LLM Agent'
 +++
 
-# Security Log Dashboard and Analysis Platform
+# NOC Multi-LLM Agent
 
-**Project Date:** May 2025  
-**Technologies:** Python (Flask, Pandas), AWS (S3, Glue), Elasticsearch, HTML/CSS/JavaScript
+**Project Date:** October 2025  
+**Technologies:** Python (FastAPI, LangGraph), PostgreSQL, Redis, Weaviate, Gemini APIs, Docker, Grafana MCP  
+**Repository:** <a href="https://github.com/sonali-rajput/noc-ai-agent" target="_blank" rel="noopener noreferrer">github.com/sonali-rajput/noc-ai-agent</a>
 
-## Overview
+## Summary
 
-A comprehensive security monitoring solution that processes and analyzes Apache web server logs to identify potential threats and security anomalies.
+An automated network operations centre agent that orchestrates multiple LLMs to triage incidents, correlate telemetry, and notify the right response team in seconds instead of hours.
 
-## Key Features
+## Key Capabilities
 
-### Centralized Dashboard
-Built a unified interface for processing, analyzing, and visualizing security logs with real-time updates and customizable views.
-
-### Data Pipeline
-Developed efficient data pipelines using AWS Glue and S3 for log ingestion, transformation, and storage at scale.
-
-### Advanced Search
-Implemented Elasticsearch for rapid threat identification and pattern analysis with sub-second query performance.
-
-### Interactive Visualization
-Created Flask and JavaScript web interface to display key security metrics and detect anomalies with responsive design.
-
-### Real-time Monitoring
-Automated threat detection with customizable alerting and notification systems.
-
-## Technical Highlights
-
-- **Performance:** Processed millions of log entries with sub-second query performance
-- **AI/ML Integration:** Implemented machine learning algorithms for anomaly detection
-- **Scalability:** Designed scalable architecture supporting multiple log sources
-- **User Experience:** Built responsive web interface with real-time updates
-- **Security:** Comprehensive threat analysis and pattern recognition
+- **Multi-agent orchestration:** Coordinates specialised LangGraph agents for intake, enrichment, triage, and remediation planning across every alert.
+- **Vector-powered correlation:** Uses Weaviate embeddings to match incoming incidents with historical fixes and eliminate duplicate pagers.
+- **Real-time observability:** Streams metrics and incident timelines into Grafana MCP dashboards for end-to-end visibility.
+- **Automated routing:** Applies Gemini policy agents to pick the correct on-call team based on runbooks, severity, and blast radius.
 
 ## Architecture
 
-The platform follows a microservices architecture with:
-- **Data Ingestion Layer:** AWS S3 for raw log storage
-- **Processing Layer:** AWS Glue for ETL operations
-- **Search Layer:** Elasticsearch for indexing and querying
-- **Application Layer:** Flask API for business logic
-- **Presentation Layer:** Interactive web dashboard
+- **Event ingestion:** FastAPI webhook gateway normalises alerts from Prometheus, CloudWatch, and custom sensors.  
+- **State and context:** Redis backs short-lived agent memory while PostgreSQL persists incident timelines, actions, and audit trails.  
+- **AI execution layer:** LangGraph orchestrates task-specific LLMs (intake, triage, diagnostics) with Gemini APIs providing long-context reasoning.  
+- **Insights & visualisation:** Grafana MCP renders live incident heatmaps, recovery timers, and post-incident analytics.
 
 ## Impact
 
-This project demonstrates expertise in:
-- Cloud-native architecture design
-- Big data processing and analytics
-- Security monitoring and threat detection
-- Full-stack web development
-- DevOps and automation practices
+- Reduced manual alert handling time by over 70% through automated triage and escalation.  
+- Improved mean time to acknowledge (MTTA) and resolve (MTTR) by surfacing runbook matches within seconds.  
+- Delivered a reusable template for LLM-first NOC automation that integrates cleanly with existing SRE tooling.
 
 [Back to Projects](/projects/)
