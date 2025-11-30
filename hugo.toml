@@ -10,8 +10,8 @@ theme = 'archie'
 
 [params]
   author = "Sonali Rajput"
-  description = "DevOps Engineer & Cloud Computing Student"
-  subtitle = "Building scalable cloud solutions and exploring AI"
+  description = "Software Engineer & Cloud Computing Student"
+  subtitle = "Software Engineer I build and automate resilient, scalable cloud-native applications."
   email = "sonali.rajput.uk@gmail.com"
   github = "sonali-rajput"
   twitter = "heyiamsra"
@@ -45,17 +45,12 @@ theme = 'archie'
     url = "/certifications/"
     weight = 30
   [[menu.main]]
-    identifier = "blog"
+    identifier = "blogs"
     name = "Blog"
-    url = "/posts/"
+    url = "/blogs/"
     weight = 40
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
     weight = 50
-  [[menu.main]]
-    identifier = "x"
-    name = "X"
-    url = "/x/"
-    weight = 60
