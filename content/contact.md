@@ -8,7 +8,7 @@ title = 'Contact'
 
 **Email:** [sonali.rajput.uk@gmail.com](mailto:sonali.rajput.uk@gmail.com)  
 
-**LinkedIn:** [sonali-rajput](https://linkedin.com/in/sonali-rajput)  
+**LinkedIn:** [sonali-rajput](https://www.linkedin.com/in/sonalirajput/)  
 **GitHub:** [sonali-rajput](https://github.com/sonali-rajput)  
 **X/Twitter:** [heyiamsra](https://x.com/heyiamsra)
 
